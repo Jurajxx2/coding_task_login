@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_create_account_title">Create an account</string>
+    <string name="login_create_account_submit_button">Create an account</string>
+    <string name="login_already_have_an_account_button">Already have an account?</string>
+    <string name="login_already_have_an_account_toast">You already have an account!</string>
+    <string name="login_social_login_google">Continue with Google</string>
+    <string name="login_social_login_facebook">Continue with Facebook</string>
+    <string name="login_social_login_apple">Continue with Apple</string>
+    <string name="login_social_login_google_toast">You can login with Google</string>
+    <string name="login_social_login_facebook_toast">You can login with Facebook</string>
+    <string name="login_social_login_apple_toast">You can login with Apple</string>
+    <string name="login_close_icon_description">Close icon</string>
+    <string name="login_later_button">Later</string>
+</resources>
